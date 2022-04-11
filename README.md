@@ -64,9 +64,9 @@ Já na semana 03 tivemos apenas uma UA e um arquivo em PDF com mais duas ativida
 As atividades do arquivo foram:
 
 > **Sistema de Cálculo Dinâmico de Notas em C Atividade 4: Lista de Exercícios** 
-> a
+>
 > Considere o vetor V = [1, -5, 0, 3, 9, -1, 7]: 
-> a
+> 
 > 2.1 – Crie em python a representação para o vetor V. 
 > 
 > 2.2 - Crie um algoritmo para que o vetor seja inicializado com vazio e os itens adicionados dinamicamente, ou seja, adicionados um a um. 
@@ -77,3 +77,23 @@ As atividades do arquivo foram:
 > 
 > 2.5 – Crie um programa que some os índices pares com os indices ímpares do do vetor
 > 
+
+> Considere a matriz abaixo
+> a
+> A =
+> 1 7 8 10
+> -3 9 -9 11
+> 5 -4 2 0
+> 12 3 -8 9
+> 
+> 2.6 – Crie um programa que calcule a soma dos elementos da primeira coluna da matriz
+> 
+> 2.7 – Crie um programa que calcule a soma dos elementos da diagonal principal.
+> 
+> 2.8 – Crie um programa que calcule a soma dos elementos acima da diagonal principal.
+> 
+> 2.9 – Crie um programa que calcule a soma de todos os elementos, exceto a diagonal principal.
+> 
+> 2.10 - Crie um programa que mostre os números negativos da matriz.
+
+
