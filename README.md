@@ -97,3 +97,16 @@ As atividades do arquivo foram:
 > 2.10 - Crie um programa que mostre os números negativos da matriz.
 
 
+## Projeto Final
+
+Neste projeto final foi pedido para que os alunos desenvolvessem um programa com um tema definido pelo próprio aluno. Portanto, decidi desenvolver um programa que calcula as médias das notas de um número x de alunos com um número y de notas, este programa também calcula a média da sala, no caso, de todos os alunos listados no programa.
+
+> Este programa foi desenvolvido em 4 dias, onde:
+> 
+> * No primeiro dia contruí um fluxograma para organizar o objetivo do código.
+> 
+> * No segundo dia comecei a pensar e selecionar todas as variáveis, vetores, matrizes, estruturas de repetições e condicionais que seriam utilizados no código.
+> 
+> * No terceiro dia iniciei o processo de transferir do fluxograma para o código de fato, utilizando a linguagem python, construí toda estrutura do código e tive erros iniciais.
+> 
+> * No quarto dia, com toda a lógica feita e toda estrutura feita, apenas resolvi erros e adicionei as contas matemáticas de médias.
