@@ -1,6 +1,6 @@
 
 def cria_matriz(m, n):
-    # cria uma matriz de Mxn
+    # cria uma matriz de M x n
     return [[0] * n for i in range(m)]
 
 # passa os parâmetros para M e N
