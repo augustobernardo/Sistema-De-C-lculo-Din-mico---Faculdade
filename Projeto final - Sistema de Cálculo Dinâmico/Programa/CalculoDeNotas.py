@@ -1,5 +1,6 @@
-# Criar um programa que recebe as notas de vários alunos, gurda em um matriz com os nomes dos alunos, e após isso faça o cálculo da média do aluno sozinho
-# E após calcule a média dos alunos em conjunto ( média da matriz por inteiro )
+# Este é um programa que recebe as notas de um número X de alunos em uma matriz, após issom cria um vetor para guardar o nome de cada aluno. Logo depois, fará o cálculo da média de cada aluno
+# e imprimirá na tela as notas deste aluno e sua média. Por fim, o programa irá calcular a média da sala toda (a média de todas as notas inseridas para cada aluno) e imprimirá na tela a média
+# da sala.
 
 imprimeLinhas = '=' * 40
 print(imprimeLinhas)
@@ -7,7 +8,6 @@ print('CALCULO DE NOTAS - SALESIANO'.center(40))
 print(imprimeLinhas)
 separacao = '*' + '=' * 40 + '*'
 linha_normal = '-' * 40
-
 
 # Recebendo os valores de entrada do tipo inteiros para calcular a matriz
 pergunta = int(input('Quantos alunos serão inseridos no sistema?\n>> '))
