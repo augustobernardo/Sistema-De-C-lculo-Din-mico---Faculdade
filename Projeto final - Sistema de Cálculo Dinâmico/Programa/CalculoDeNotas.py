@@ -1,4 +1,4 @@
-# Criar um programa que recebe as notas de vários alunos, gurda em um matriz com os nomes dos alunos, e após isso faça o cálculo da média do aluno sozinho
+# Criar um programa que recebe as notas de vários alunos, guarda em um matriz com os nomes dos alunos, e após isso faça o cálculo da média do aluno sozinho
 # E após calcule a média dos alunos em conjunto ( média da matriz por inteiro )
 
 imprimeLinhas = '=' * 40
